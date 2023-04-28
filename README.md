@@ -2,8 +2,23 @@
 
 This Flutter project is a simple xylophone app that uses the `audioplayers` package to play sounds. The app features a set of colored buttons representing the xylophone keys. When a user taps a button, the corresponding sound is played.
 
-![Xylophone App View](Simulator Screen Shot - iPhone 14 Pro - 2023-04-28 at 15.03.56.png){:width="200px"}
+![Xylophone App View](images/Simulator Screen Shot - iPhone 14 Pro - 2023-04-28 at 15.03.56.png)
 
+<
+img
+ 
+src
+=
+"images/Simulator Screen Shot - iPhone 14 Pro - 2023-04-28 at 15.03.56.png"
+ 
+alt
+=
+"Xylophone App View"
+ 
+width
+=
+"200px"
+>
 ## Main Components
 
 1. **XylophoneApp**: This StatelessWidget serves as the main entry point for the app. It builds the MaterialApp and the main UI components.
